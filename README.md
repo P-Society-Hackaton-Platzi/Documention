@@ -6,7 +6,7 @@ Mejorar la interacción entre los miembros de platzi master
 compartiendo conocimiento ayudando a resolver dudas a través 
 de mentorías entre pares generando empatía y compañerismo.
 
-##¿Cómo lo resuelven? 
+## ¿Cómo lo resuelven? 
 
 Mediante un sistema de preguntas, los alumnos resuelven las dudas de
 sus compañeros ya sea en texto o mediante vídeo conferencia buscando la
@@ -15,12 +15,12 @@ una vez resuelta la duda, el que la resuelve gana puntos que le ayuden
 a evidenciar de una manera mas tangible las softskills de team work.
 Generar empatia entre los alumnos y conocerse es el objetivo principal
 
-##¿Qué áreas de desarrollo aplican? 
+## ¿Qué áreas de desarrollo aplican? 
 
 Frontend
 Backend
 
-##¿Qué tecnologías planean usar?
+## ¿Qué tecnologías planean usar?
 
 * Javascript 
 * React 
